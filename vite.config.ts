@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base:'http://ngdelafp.github.io/app-vue-deploy'
+  base:'https://ngdelafp.github.io/app-vue-deploy'
 })
